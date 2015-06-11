@@ -1,0 +1,7 @@
+1. shared.html
+2. resellers.html
+3. vps-hosting.html
+4. dedicated.html
+5. affiliates.html
+6. apps.html
+7. windows-hosting.html
